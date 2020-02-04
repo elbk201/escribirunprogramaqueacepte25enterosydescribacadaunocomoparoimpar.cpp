@@ -1,0 +1,1 @@
+# escribirunprogramaqueacepte25enterosydescribacadaunocomoparoimpar.cpp
